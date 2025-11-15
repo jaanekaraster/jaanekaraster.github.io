@@ -12,7 +12,7 @@ title: Project Hub
 ">
 
   <!-- Project 1 -->
-  <a href="https://jaanekaraster.github.io/site1" style="text-decoration:none; color:inherit;">
+  <a href="https://jaanekaraster.github.io/30-day-map-challenge-24/" style="text-decoration:none; color:inherit;">
     <div style="
       border: 1px solid #ddd;
       border-radius: 10px;
