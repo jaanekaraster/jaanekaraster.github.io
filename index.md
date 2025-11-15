@@ -27,4 +27,19 @@ title: Project Hub
     </div>
   </a>
 
+  <a href="https://jaanekaraster.github.io/30-day-map-challenge-25/" style="text-decoration:none; color:inherit;">
+    <div style="
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+      transition: 0.2s;
+    ">
+      <img src="assets/all_2025.png" alt="Work In Progress" style="width:100%; display:block;">
+      <div style="padding:12px; font-size:18px; font-weight:bold;">
+        30 Day Map Challenge 2025
+      </div>
+    </div>
+  </a>
+
 </div>
